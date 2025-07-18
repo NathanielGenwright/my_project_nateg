@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs generated during practice
+*.out
+*.tmp
+*.log.processed
+
+# macOS cruft
+.DS_Store

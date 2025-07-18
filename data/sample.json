@@ -1,0 +1,7 @@
+{
+  "customer_id": 203,
+  "environment": "production",
+  "error_count": 7,
+  "last_bill_at": "2025-06-30T23:59:00Z",
+  "notes": ["Missing plan rate", "Retry scheduled"]
+}

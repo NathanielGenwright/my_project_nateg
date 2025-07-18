@@ -1,0 +1,5 @@
+2025-07-01 08:11:02 [INFO] Starting job run_id=9342 env=prod
+2025-07-01 08:11:05 [WARN] Slow response from billing API (842ms)
+2025-07-01 08:11:08 [ERROR] Failed to fetch customer usage. status=500
+2025-07-01 08:11:09 [INFO] Retrying request...
+2025-07-01 08:11:10 [ERROR] Retry failed. abandoning run_id=9342

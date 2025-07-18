@@ -1,0 +1,5 @@
+2025-07-02 16:44:01 [INFO] Worker started queue=charges
+2025-07-02 16:44:05 [INFO] Processing batch=57
+2025-07-02 16:44:07 [WARN] Customer timezone missing; default=UTC
+2025-07-02 16:44:10 [ERROR] Charge calc failed customer_id=203 detail="nil plan rate"
+2025-07-02 16:44:11 [INFO] Batch complete with errors
