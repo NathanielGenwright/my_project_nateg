@@ -31,4 +31,12 @@
 - Add a summary to README.md ("Phase 1 complete").
 - Tag: `v0.1`.
 
+## Task 7: Advanced Log Analytics
+- Create a new Python script `scripts/advanced_log_analyzer.py`
+- Add functionality to:
+  - Extract timestamps and calculate time between errors
+  - Identify the most frequent error types
+  - Generate a summary report as a CSV file
+- Branch: `task/advanced-analytics`
+
 ---
